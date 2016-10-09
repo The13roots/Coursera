@@ -22,6 +22,7 @@ p{
 }
  #clear{
   clear: both;
+  padding: 15px;
 }
 #p{
   position: relative;
